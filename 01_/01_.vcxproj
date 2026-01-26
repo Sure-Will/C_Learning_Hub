@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2b71abda-17a3-44ec-8794-e9259eb1ff4c}</ProjectGuid>
-    <RootNamespace>_01</RootNamespace>
+    <ProjectGuid>{2b2335f5-96ff-4a1c-b926-c0f6f86e7095}</ProjectGuid>
+    <RootNamespace>_01_</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>01_用海伦公式计算三角形面积</ProjectName>
+    <ProjectName>01_C_String_Stdlib_Simulation</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

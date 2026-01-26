@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2b71abda-17a3-44ec-8794-e9259eb1ff4c}</ProjectGuid>
-    <RootNamespace>_01</RootNamespace>
+    <ProjectGuid>{3e672b4f-6916-49b2-a5dc-a7110109b023}</ProjectGuid>
+    <RootNamespace>_01_roll_dice</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>01_用海伦公式计算三角形面积</ProjectName>
+    <ProjectName>01_roll dice</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
