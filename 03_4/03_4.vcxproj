@@ -24,7 +24,7 @@
     <ProjectGuid>{658dfc31-f055-40b0-8832-de7ed24ac32b}</ProjectGuid>
     <RootNamespace>_03_4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>03_4</ProjectName>
+    <ProjectName>03_4_xor_swap</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,7 +24,7 @@
     <ProjectGuid>{897b2711-cc0b-4c76-8cdc-66f85862bd24}</ProjectGuid>
     <RootNamespace>_04</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>04</ProjectName>
+    <ProjectName>04_grade_switch</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
